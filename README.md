@@ -9,8 +9,6 @@ Choosing to leave the site only adaptable to desktop screens to see and review t
  ● HTML
  <br>
  ● CSS
- <br>
- ● JavaScript
  
  <h3>📌 DevOps</h3>
  
