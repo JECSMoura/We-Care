@@ -1,5 +1,9 @@
 <h1># We-Care</h1>
 
+<div aling=c"center">
+<img height="300em" height="300em" src="https://github.com/JECSMoura/We-Care/blob/master/assets/desktop.png?raw=true">
+</div>
+
 <p>Project developed during the Fulstack development course to improve theoretical knowledge in a practical and efficient way using HTML and CSS technologies.
 Choosing to leave the site only adaptable to desktop screens to see and review the development along the modules and knowledge achieved. </p>
 <br>
