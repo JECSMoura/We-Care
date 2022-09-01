@@ -3,7 +3,7 @@
 <p>Project developed during the Fulstack development course to improve theoretical knowledge in a practical and efficient way using HTML and CSS technologies.
 Choosing to leave the site only adaptable to desktop screens to see and review the development along the modules and knowledge achieved. </p>
 <br>
-
+Deploy: https://jecsm-we-care.netlify.app/
  <h2>💻 Technologies</h3> 
  
  ● HTML
