@@ -1,6 +1,6 @@
 <h1># We-Care</h1>
 
-<div aling=c"center">
+<div aling="center">
 <img height="300em" height="300em" src="https://github.com/JECSMoura/We-Care/blob/master/assets/desktop.png?raw=true">
 </div>
 
